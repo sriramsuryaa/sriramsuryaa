@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Sri Ram
 
-<!--
-**sriramsuryaa/sriramsuryaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & IT Professional with **2.7 years of experience** in IT Trainee, IT Helpdesk, IT Operations, and Incident Response roles — now thriving in the world of **DevOps engineering**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+- **Operating Systems:** Linux.  
+- **Cloud Platforms:** AWS.  
+- **Networking & Infrastructure:** Networking, HAProxy, Nginx.  
+- **CI/CD & Automation:** Jenkins, Git, Bash Scripting, Ansible, Terraform.  
+- **Containers & Orchestration:** Docker, Kubernetes. 
+- **Monitoring & Observability:** Grafana, Prometheus.  
+- **Registry/Repository:** GitHub, GitLab, Dockerhub, Nexus, ECR.  
+
+---
+
+## 📈 Experience Snapshot
+
+- **IT Trainee / Helpdesk / Operations** → Built strong foundations in troubleshooting, system administration, and user support.  
+- **DevOps Engineer** → Hands-on with CI/CD pipelines, infrastructure automation, and container orchestration.  
+- **Incident Responder** → Skilled in monitoring, alerting, and resolving production issues under pressure.  
+
+---
+
+## 🌟 What I Do
+
+- Automate infrastructure with **Terraform & Ansible**  
+- Build and maintain **CI/CD pipelines** with Jenkins & Git  
+- Deploy and scale applications using **Docker & Kubernetes**  
+- Monitor systems with **Grafana & Prometheus**  
+- Optimize performance with **Nginx & HAProxy**  
+- Ensure reliability through **incident response & operations**  
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/srrajendiran)  
+- 🐙 [GitHub](https://github.com/sriramsuryaa)  
+
+
+---
+
+⭐️ *Always learning, always improving — passionate about building reliable, scalable, and automated systems.*
