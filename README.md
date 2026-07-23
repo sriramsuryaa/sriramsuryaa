@@ -4,7 +4,7 @@
 
 ### 🚀 IT DevOps Engineer | Cloud Infrastructure | CI/CD | Containers
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-srR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srrajendiran)
 [![GitHub](https://img.shields.io/badge/GitHub-sriramsuryaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriramsuryaa)
 [![Email](https://img.shields.io/badge/Email-sriramsuryaa@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sriramsuryaa@outlook.com)
 
