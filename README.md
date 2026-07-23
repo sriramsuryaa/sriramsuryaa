@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sri Ram
 
-🚀 DevOps & IT Professional with **2.7 years of experience** in IT Trainee, IT Helpdesk, IT Operations, and Incident Response roles — now thriving in the world of **DevOps engineering**.
+🚀 DevOps & IT Professional with **2.9 years of experience** in IT Trainee, IT Helpdesk, IT Operations, and Incident Response roles — now thriving in the world of **DevOps engineering**.
 
 ---
 
