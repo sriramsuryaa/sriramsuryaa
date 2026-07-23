@@ -146,6 +146,6 @@ $ whoami --skills
 
 **💬 Open to DevOps Engineer opportunities across India**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/srR)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/srrajendiran)
 
 </div>
