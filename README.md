@@ -119,9 +119,6 @@ Status    : 🟢 Open to Opportunities
 
 <div align="center">
 
-<img height="180" alt="Sri Ram's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sriramsuryaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramsuryaa&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sriramsuryaa&theme=tokyonight&hide_border=true" />
 
 </div>
