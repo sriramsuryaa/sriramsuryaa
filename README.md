@@ -4,7 +4,7 @@
 
 ### 🚀 IT DevOps Engineer | Cloud Infrastructure | CI/CD | Containers
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-srR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srrajendiran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sri%20Ram%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srrajendiran)
 [![GitHub](https://img.shields.io/badge/GitHub-sriramsuryaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriramsuryaa)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sriramsuryaa&color=1A5276&style=for-the-badge&label=PROFILE+VIEWS)
@@ -15,14 +15,14 @@
 
 ## 🧑‍💻 About Me
 
-DevOps-focused IT Engineer with **3.0 years of progressive experience** across IT Helpdesk, IT Operations, and DevOps Engineering.  
+DevOps-focused IT Engineer with **3 years of progressive experience** across IT Helpdesk, IT Operations, and DevOps Engineering.  
 I specialize in **cloud infrastructure provisioning**, **CI/CD automation**, and **containerized deployments** — building systems that are reliable, scalable, and automated.
 
 ```yaml
 Name      : Sri Ram R
 Role      : IT DevOps Engineer
 Location  : Tamil Nadu, India
-Experience: 3.0 years (Oct 2023 – Present)
+Experience: 3 years (Oct 2023 – Present)
 Focus     : Cloud Infrastructure · CI/CD · Containers · Observability
 Status    : 🟢 Open to Opportunities
 ```
@@ -31,11 +31,11 @@ Status    : 🟢 Open to Opportunities
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+### ☁️ Cloud & Infrastructure as Code
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
@@ -43,28 +43,33 @@ Status    : 🟢 Open to Opportunities
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ### 🔁 CI/CD & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
-### 🌐 Web & Security
+### 🌐 Web Servers & Networking
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-009BDE?style=flat-square&logo=haproxy&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🗃️ Databases & Registries
+### 🐧 OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 📦 Artifact & Image Registries
+![Amazon ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
 
@@ -78,7 +83,7 @@ Status    : 🟢 Open to Opportunities
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
 - End-to-end CI/CD pipeline: Jenkins → Docker Build → ECR Push → EKS Deploy
 - Auto-scaling node groups with CloudWatch monitoring and alarms
@@ -101,7 +106,7 @@ Status    : 🟢 Open to Opportunities
 ### 🧠 [Mind-Track-App](https://github.com/sriramsuryaa/Mind-Track-App)
 > Cloud-native CI/CD pipeline using AWS-native services
 
-![CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
@@ -114,11 +119,10 @@ Status    : 🟢 Open to Opportunities
 
 <div align="center">
 
-![Sri Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramsuryaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180" alt="Sri Ram's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sriramsuryaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramsuryaa&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramsuryaa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sriramsuryaa&theme=tokyonight&hide_border=true)
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sriramsuryaa&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -126,7 +130,7 @@ Status    : 🟢 Open to Opportunities
 
 ## 🌟 What I Do
 
-```bash
+```text
 $ whoami --skills
 
 ✅ Provision cloud infrastructure with Terraform & Ansible (DEV · STG · PRD)
@@ -145,6 +149,6 @@ $ whoami --skills
 
 **💬 Open to DevOps Engineer opportunities across India**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/srrajendiran)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srrajendiran)
 
 </div>
