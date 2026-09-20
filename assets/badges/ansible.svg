@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92.9" height="28" viewBox="0 0 92.9 28" role="img" aria-label="Ansible">
+  <title>Ansible</title>
+  <rect x="0.5" y="0.5" width="91.9" height="27" rx="6" fill="#22272E" stroke="#444C56"/>
+  <svg x="9" y="5.0" width="18" height="18" viewBox="0 0 24 24" fill="#EE0000"><path d="M10.617 11.473l4.686 3.695-3.102-7.662zM12 0C5.371 0 0 5.371 0 12s5.371 12 12 12 12-5.371 12-12S18.629 0 12 0zm5.797 17.305c-.011.471-.403.842-.875.83-.236 0-.416-.09-.664-.293l-6.19-5-2.079 5.203H6.191L11.438 5.44c.124-.314.427-.52.764-.506.326-.014.63.189.742.506l4.774 11.494c.045.111.08.234.08.348-.001.009-.001.009-.001.023z"/></svg>
+  <text x="34" y="18.5" font-family="Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="12" font-weight="600" fill="#FFFFFF" textLength="49.9" lengthAdjust="spacingAndGlyphs">Ansible</text>
+</svg>
